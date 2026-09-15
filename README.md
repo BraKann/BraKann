@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Stage Drafpic — `Symfony / PHP`
 
