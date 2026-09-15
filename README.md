@@ -27,7 +27,7 @@
 Application web de gestion des trajets professionnels internes, développée en binôme lors d'un stage de 2 mois.
 Découverte de Symfony et de la conteneurisation Docker, cahier des charges et charte graphique imposée, communication inter-départements.
 
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FIGMA](https://img.shields.io/badge/Figma-2496ED?style=for-the-badge&logo=Figma&logoColor=white)
 
 ---
 
